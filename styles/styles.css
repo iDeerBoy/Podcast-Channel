@@ -317,6 +317,11 @@ li{
     letter-spacing: 0;
     line-height: 28px;
     padding: 0 6%;
+    transition: all .5s ease;
+}
+
+.redes:hover{
+    color: #00F0B8;
 }
 
 
